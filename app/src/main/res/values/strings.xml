@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Parcelable</string>
+    <string name="plainMarque">Marque</string>
+    <string name="plainKm">KM</string>
+    <string name="buttonGo">GO</string>
+    <string name="marque">marque</string>
+    <string name="km">km</string>
+</resources>
